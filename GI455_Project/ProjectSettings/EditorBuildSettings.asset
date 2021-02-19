@@ -6,9 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/ProgramChat_Lecture/Scenes/ProgramChat.unity
+    path: Assets/ProgramChat_Lecture02/Scenes/ProgramChat.unity
     guid: 70850853ca3f5a543937882bc1a3b340
-  - enabled: 1
+  - enabled: 0
     path: Assets/ProgramChat_HomeWork/Scenes/ProgramChat_Homework.unity
     guid: 4fd9e38a8fa30314d88b9d6c9ea68f06
+  - enabled: 1
+    path: Assets/ProgramChat_HomeWorkWeek4/Scenes/AssignmentWeek4.unity
+    guid: e3cb6131fbfd7b44a8c9907be493ba6a
   m_configObjects: {}
