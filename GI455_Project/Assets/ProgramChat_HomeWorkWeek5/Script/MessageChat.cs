@@ -34,5 +34,14 @@ namespace ProgramChat_HomeworkWeek5
         {
             return JsonUtility.ToJson(this);
         }
+        public int[] plus(int[] newgroup, int number2)
+        {
+            int[] result = new int[4];
+            for (int i = 0; i < newgroup.Length; i++)
+            {
+                result[i] = newgroup[i] + number2;
+            }
+            return result;
+        }
     }
 }

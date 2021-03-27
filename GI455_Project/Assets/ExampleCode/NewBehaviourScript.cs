@@ -12,9 +12,9 @@ namespace Test
         public void Start()
         {
             tempData = "";
-            //WebSocketConnection();
-            //StudentData newS = new StudentData();
-            //print(JsonUtility.ToJson(newS));
+            WebSocketConnection();
+            StudentData newS = new StudentData();
+            print(JsonUtility.ToJson(newS));
         }
         private void Update()
         {
