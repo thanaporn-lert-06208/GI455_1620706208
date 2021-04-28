@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace MultiPlayerExampleWeek9
+namespace MultiPlayerExampleWeek10
 {
     public class NetworkObject : MonoBehaviour
     {
