@@ -1,0 +1,19 @@
+อันที่เป็น package.json อันเก่าที่เอาไว้สำหรับตอนที่ไม่ได้ Deploy Node JS บนกูเกิ้ลคลาวด์
+
+{
+  "name": "thanapornserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thanaporn",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.6.4",
+    "sqlite3": "^5.0.2",
+    "uuid": "^8.3.2",
+    "ws": "^7.4.2"
+  }
+}
